@@ -15,5 +15,7 @@ Source code is not published here — only ready-to-install builds.
 | Material Cleaner 1.0.0 | Blender 4.0+ | `material-cleaner-1.0.0` |
 | Lumelo 1.3.0 | Windows · Android | `lumelo-1.3.0` |
 | NiceShoots 1.0.0 | Windows | `niceshoots-1.0.0` |
+| PlayTime Pro 10.2.0 | Windows | `playtime-pro-10.2.0` |
+| Prisma 0.1.0 (demo) | Windows | `prisma-demo-0.1.0` |
 
 Each release lists SHA-256 checksums so you can verify the files.
