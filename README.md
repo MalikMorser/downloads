@@ -7,8 +7,6 @@ Source code is not published here — only ready-to-install builds.
 
 | Product | Platform | Release |
 |---|---|---|
-| Pose Library 3.0 | Moho Pro 14.4 (Windows) | `pose-library-3.0` |
-| Rig Controllers 2.0 | Moho Pro 14.4 (Windows) | `rig-controllers-2.0` |
 | MRM Metrics Pro 10.1.0 | Blender 4.5+ | `mrm-metrics-pro-10.1.0` |
 | Piano Rig Pro 0.14 | Blender 3.0+ | `piano-rig-pro-0.14` |
 | Texture Scatter 0.1.0-alpha.1 | Blender 5.2+ | `texture-scatter-0.1.0-alpha.1` |
