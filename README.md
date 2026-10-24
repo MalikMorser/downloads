@@ -13,6 +13,7 @@ Source code is not published here — only ready-to-install builds.
 | Piano Rig Pro 0.14 | Blender 3.0+ | `piano-rig-pro-0.14` |
 | Texture Scatter 0.1.0-alpha.1 | Blender 5.2+ | `texture-scatter-0.1.0-alpha.1` |
 | Material Cleaner 1.0.0 | Blender 4.0+ | `material-cleaner-1.0.0` |
+| CUBI 1.0.0 | Windows 11 | `cubi-1.0.0` |
 | Lumelo 1.3.0 | Windows · Android | `lumelo-1.3.0` |
 | NiceShoots 1.0.0 | Windows | `niceshoots-1.0.0` |
 | PlayTime Pro 10.2.0 | Windows | `playtime-pro-10.2.0` |
